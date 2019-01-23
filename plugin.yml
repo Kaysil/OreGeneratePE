@@ -1,0 +1,5 @@
+name: OreGeneratePE
+version: 1.2
+main: KaysilGVN\OreGeneratePE
+api: [3.0.0]
+author: KaysilGVN
