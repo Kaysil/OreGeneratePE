@@ -33,7 +33,7 @@ use pocketmine\block\CoalOre;
 class OreGeneratePE extends PluginBase implements Listener{
     
     public function onEnable(){
-        $this->getLogger()->info("§aOre Generate > Enable !");
+        $this->getLogger()->info("§aLoading OreGeneraotrBE");
         $this->getServer()->getPluginManager()->registerEvents($this,$this);
     }
 
