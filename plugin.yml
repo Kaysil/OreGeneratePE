@@ -1,5 +1,5 @@
-name: OreGeneratePE
-version: 1.2
-main: KaysilGVN\OreGeneratePE
+name: OreGeneratorBE
+version: 2.0 beta
+main: KaysilGVN\OreGeneratorBE
 api: [3.0.0]
 author: KaysilGVN
